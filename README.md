@@ -1,9 +1,9 @@
 # About Me
-Hi there!
+Hello world!
 
 I'm Tyler S. Resch and in the digital world I'm known as 'MidSpike'.
 
-I work in the JavaScript ecosystem developing websites, Discord Bots, and server-side software.
+I work in the JavaScript ecosystem developing websites, server-side software, and discord bots.
 
 
 # Cards
